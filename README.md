@@ -65,6 +65,6 @@ void teclado(int key,int x,int y){
     }
     glutPostRedisplay();
 }
-```c++
+```
 
 ![Mover objeto](https://github.com/DenisCcallo/Grafica2/blob/master/2%20imagenes/moveobjteclado.gif "Mover objeto")
