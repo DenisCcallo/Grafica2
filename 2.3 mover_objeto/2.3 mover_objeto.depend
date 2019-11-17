@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574004952 source:d:\unsa\8 semestre\grafica\lab\2.3 mover_objeto\main.cpp
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+
+976684972 d:\unsa\8 semestre\grafica\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
