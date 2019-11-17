@@ -67,4 +67,4 @@ void teclado(int key,int x,int y){
 }
 ```c++
 
-![Mocer Objeto](https://github.com/DenisCcallo/Grafica2/blob/master/2%20imagenes/moveobjteclado.gif "Mover objeto")
+![Mover objeto](https://github.com/DenisCcallo/Grafica2/blob/master/2%20imagenes/moveobjteclado.gif "Mover objeto")
