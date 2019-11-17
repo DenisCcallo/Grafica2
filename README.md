@@ -9,6 +9,7 @@ Mover camara, Perspectiva y mover objeto.
 
 
 **Mover camara con el mouse**
+
 Para mover la camara se usa el mouse, con las coordenadas X,Y,Z un triangulo gracias a las funciones   glutMouseFunc(mouse_llamada) y 
   glutMotionFunc(mouse_movimiento);
 
@@ -46,7 +47,9 @@ void mouse_movimiento(int x, int y)
 
 
 **Mover objeto con el teclado**
-Se crea un cuadrado para que se visualize con una determinada perspectiva, se usa las flechas de direccionamiento para mover el objeto
+
+Se crea un cuadrado para que se visualize con una determinada perspectiva, se usa las flechas de direccionamiento para mover el objeto, 
+cuando se presionas una tecla se actualiza conglutPostRedisplay().
 
 ```c++
 void teclado(int key,int x,int y){
